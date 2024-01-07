@@ -6,13 +6,9 @@ Uma entidade vagando pelos cosmos sózinha.
 
 Este projeto é um experimento de animação interativa feito com HTML5 Canvas e JavaScript. Ele cria um efeito visual de tentáculos que seguem o movimento do cursor do mouse. O código cria um cenário com estrelas e um conjunto de tentáculos que respondem ao movimento do mouse.
 
-## Versão mobile
+## Prévia
 
-![Mobile](https://media.discordapp.net/attachments/1191521910442446949/1191523236962381975/image.png?ex=65a5bf7d&is=65934a7d&hm=3af6711082b0b621f5525855dbd10601fb16b92b057f7716a971acd24462ed3f&=&format=webp&quality=lossless)
-
-## Versão web
-
-![Web](https://media.discordapp.net/attachments/1191521910442446949/1191523057899147295/image.png?ex=65a5bf52&is=65934a52&hm=2b835cebd3670ad291f1486035d1d5ce20463dc824f581d6660d5c3def13560c&=&format=webp&quality=lossless&width=1193&height=671)
+![Web](https://media.discordapp.net/attachments/1191521910442446949/1193555230722375750/sozinho.gif?ex=65ad23ee&is=659aaeee&hm=90ec68a9f3c19c2448fb3d572c58fb7b2a9194b0a0fc1f4f02aa552a486e883d&=)
 
 # Tecnologias utilizadas
 
