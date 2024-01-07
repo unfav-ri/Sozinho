@@ -8,7 +8,7 @@ Este projeto é um experimento de animação interativa feito com HTML5 Canvas e
 
 ## Prévia
 
-![Web](https://media.discordapp.net/attachments/1191521910442446949/1193555230722375750/sozinho.gif?ex=65ad23ee&is=659aaeee&hm=90ec68a9f3c19c2448fb3d572c58fb7b2a9194b0a0fc1f4f02aa552a486e883d&=)
+<img src="./sozinho.gif">
 
 # Tecnologias utilizadas
 
