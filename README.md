@@ -18,4 +18,4 @@ Este projeto é um experimento de animação interativa feito com HTML5 Canvas e
 # Autor
 
 R. Gonçalves
-https://www.linkedin.com/in/rgonsa/
+[linkedIn](https://www.linkedin.com/in/unic-ri/)
