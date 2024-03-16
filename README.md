@@ -17,5 +17,5 @@ Este projeto é um experimento de animação interativa feito com HTML5 Canvas e
 
 # Autor
 
-R. Gonçalves
-[linkedIn](https://www.linkedin.com/in/unic-ri/)
+R. Gonçalves  
+[LinkedIn](https://www.linkedin.com/in/unic-ri/ "Visite meu perfil no LinkedIn")
